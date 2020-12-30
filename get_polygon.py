@@ -1,0 +1,37 @@
+import ImageTk
+from Tkinter import *
+import Image
+
+def get_polygon(image):
+    root = Tk()
+    root.title("click around the field. right click to exit")
+    root.geometry("900x700")
+
+    frame = Frame(root)
+    frame.pack()
+
+    im = Image.open(image)
+    tkim = ImageTk.PhotoImage(im)
+
+    canvas = Canvas(frame, width = 900, height = 700)
+    canvas.create_image((0,0), image = tkim,anchor = 'nw')
+
+    points = []
+    p = canvas.create_polygon(0,0)
+
+    def foo(e,p):
+        if len(points) > 0:
+            p = canvas.create_polygon(points, outline = 'white', width=4, fill = "")
+        points.extend([e.x,e.y])
+        p = canvas.create_polygon(points, outline = 'black', width=4, fill = "")
+
+    def close(e):
+        root.destroy()
+        return points
+            
+    canvas.bind("<Button-1>", lambda e:foo(e,p))
+    canvas.bind("<Button-3>", close)
+    canvas.pack()
+    root.mainloop()
+    return points
+

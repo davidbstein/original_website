@@ -1,0 +1,94 @@
+David B Stein
+407 Memorial Drive, Cambridge MA 02139 -- (323) 393-3553 -- stein@mit.edu
+=================
+Education
+=================
+Massachusetts Institute of Technology (Cambridge, MA)
+(2006-present)
+Candiate for BS in EECS Feb 2011, M.Eng in EECS Sept 2011
+Selected Coursework Advanced Data Structures -- Computation Structures -- Communication for Buisness Management --
+Computer System Engineering -- Computer Vision -- Mobile Device Application Development -- Optimisation Methods in
+Management Science -- Probabilistic Systems Analysis -- Robotic Science and Systems -- Waves and Vibrations
+Deerfield Academy (Deerfield, MA)
+(2002-2006)
+SAT: Math-800, writing-710, verbal-700 AP Scholar with Honor
+=================
+Experience
+=================
+.
+Microsoft - Technical Computing Cloud Team
+Summer 2010
+Software Development Engineer
+-- Created new tools facilitating development of distubuted cloud applications by non-programmers
+-- Investigated novel cloud elasticity management algorithms using machine learning and feedback control
+-- Designed and demonstrated feasability of real-time analysis and visualization of large datasets
+.
+Distributed Robotic Lab (part of MIT's CSAIL)
+Summer 2009-present
+Research Assistant
+-- Implemented a heterogeneous mesh-networked team of robots to autonomously assemble structures
+-- Architected and fabricated robotic platform, wrote software and firmware control systems for robots
+-- Mentor and manage an undergraduate research assistant
+-- Co-authored paper on results (to appear at IROS 2010)
+.
+Systems Engineering Research Initiative at MIT
+Summer 2008-Spring 2009
+Research Assistant
+-- Aided planning and implementation of an automated approach to designing complex systems
+-- Developed software to analyze thousands of satellite designs using phsyics-based monte-carlo simulation
+-- Co-authored one conference and one journal paper (AIAA Space 2009, Journal of Spacecraft and Rockets)
+.
+Omya - IT Dept
+Summer 2006 and 2007
+Intern
+-- Provided on and o site technical assistance to OMYA's North American headquarters' five-building campus
+-- Created documentation outlining internal network structure and instructions for its maintenance
+=================
+Teaching
+================= .
+MIT Dept. of Electrical Engineering and Computer Science
+Spring 2010
+Teaching Assistant - 6.005: Elements of Software Design
+-- Taught weekly recitations for approximately a dozen regularly attending students
+-- Wrote and graded assignments, spearheaded design of new final project
+.
+MIT Dept. of Electrical Engineering and Computer Science
+Fall 2009
+Lab Assistant - 6.005: Elements of Software Design
+-- Assisted struggling students in office hours and helped work with students during lab sessions
+.
+MIT Dept. of Electrical Engineering and Computer Science
+Spring 2008
+Lab Assistant - 6.01: Intro to EECS I
+-- Tutored students during bi-weekly programming and circuity labs
+=================
+Leadership
+================= .
+MIT Inter-fraternity Council - Executive Board
+Fall 2008 - Fall 2009
+-- One of six elected members of the E.B. representing over half of the male undergraduates
+-- Coordinated the 26 fraternity recruitment eort consisting of hundreds of competing events
+-- Directed redesign of a system for monitering the location and behavior of rush participants
+.
+Kappa Sigma Fraternity
+Initiated Fall 2007
+-- President (Summer 2009) - Oversaw repairs to heating system, resolved interpersonal issues.
+-- Treasurer, Housing Chair (Summer 2008) - Leased our 5 story building's rooms individually, collected rent.
+.
+MIT Varsity Crew
+2006-2009
+-- Varsity member of MIT's only Division I sport
+=================
+Publications (alphabetical first author listing)
+================= .
+Richards, M., Ross, A., Stein, D., and Hastings, D., "Multi-Attribute Tradespace Exploration for Survivability:
+Application to Satellite Radar," AIAA Space 2009, Pasadena, CA, September 2009. (AIAA-2009-6728)
+.
+A. Bolger, M. Faulkner, D. Stein, L. White, S. Yun, D. Rus, "Experiments in Decentralized Robot Construction
+with Tool Delivery and Assembly Robots," IEEE/RSJ International Conf on Intelligent Robots and Systems, 2010
+=================
+Skills
+================= 
+.NET, Azure, C, C++, C#, HTML, GNU/Linux, Java, LATEX, LINQ,
+MapReduce/Dryad, MATLAB, MPI, Multi-threading, Office, Perl, Python, RegEx, UNIX, Sockets, SQL, x86,
+Win32, Windows Comm
